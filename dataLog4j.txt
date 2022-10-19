@@ -1,0 +1,24 @@
+DEBUG	2022-10-19 09:53:00,712	0	root	[main]	Program starts!!!
+TRACE	2022-10-19 09:53:00,714	2	root	[main]	Method starts work.
+TRACE	2022-10-19 09:53:00,715	3	root	[main]	Method loop starts.
+TRACE	2022-10-19 09:53:00,715	3	root	[main]	Method loop ends.
+TRACE	2022-10-19 09:53:00,721	9	root	[main]	Method return 5.
+DEBUG	2022-10-19 09:53:00,723	11	root	[main]	Program ends!!!
+DEBUG	2022-10-19 09:53:04,948	4236	root	[main]	Program starts!!!
+TRACE	2022-10-19 09:53:04,948	4236	root	[main]	Method starts work.
+TRACE	2022-10-19 09:53:04,948	4236	root	[main]	Method loop starts.
+TRACE	2022-10-19 09:53:04,949	4237	root	[main]	Method loop ends.
+TRACE	2022-10-19 09:53:04,949	4237	root	[main]	Method return 13.
+DEBUG	2022-10-19 09:53:04,949	4237	root	[main]	Program ends!!!
+DEBUG	2022-10-19 09:53:08,843	8131	root	[main]	Program starts!!!
+TRACE	2022-10-19 09:53:08,843	8131	root	[main]	Method starts work.
+TRACE	2022-10-19 09:53:08,844	8132	root	[main]	Method loop starts.
+TRACE	2022-10-19 09:53:08,844	8132	root	[main]	Method loop ends.
+TRACE	2022-10-19 09:53:08,844	8132	root	[main]	Method return 6765.
+DEBUG	2022-10-19 09:53:08,844	8132	root	[main]	Program ends!!!
+DEBUG	2022-10-19 09:53:22,776	22064	root	[main]	Program starts!!!
+TRACE	2022-10-19 09:53:22,776	22064	root	[main]	Method starts work.
+TRACE	2022-10-19 09:53:22,776	22064	root	[main]	Method loop starts.
+TRACE	2022-10-19 09:53:22,777	22065	root	[main]	Method loop ends.
+TRACE	2022-10-19 09:53:22,777	22065	root	[main]	Method return 55.
+DEBUG	2022-10-19 09:53:22,777	22065	root	[main]	Program ends!!!
